@@ -1,0 +1,3 @@
+[submodule "sqlx-named-bind"]
+	path = sqlx-named-bind
+	url = git@github.com:kano1101/sqlx-named-bind.git
